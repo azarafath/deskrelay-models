@@ -1,0 +1,7 @@
+{
+  "version": "3.0.0",
+  "released_at": "2026-11-21",
+  "download_url": "https://github.com/azarafath/deskrelay-models/releases/download/model-v3.0.0/deskrelay-model-v3.0.0.zip",
+  "sha256": "624d799f77ce8c8a848747eff43f5ef5938d7cd81ac5aeb337d62fe2928b772f",
+  "notes": "Baseline ML model (catalog-v2)"
+}
